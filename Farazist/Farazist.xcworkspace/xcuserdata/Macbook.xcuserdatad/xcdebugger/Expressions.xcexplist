@@ -1,0 +1,514 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "closure #1 in AuthService.getUserProfileInfo(completion:):AuthService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AuthService.instance.authToken">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.viewDidLoad():MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "prevVC">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DataService.getAllMessages(userCategory:completion:):DataService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AuthService.instance.authToken">
+            </PersistentString>
+            <PersistentString
+               value = "response">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddressView.addressEditableTitle.setter:AddressView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.titleTextField">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AccountViewController.viewDidAppear(_:):AccountViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "firstName">
+            </PersistentString>
+            <PersistentString
+               value = "AuthService.instance.authToken">
+            </PersistentString>
+            <PersistentString
+               value = "AuthService.instance.isActive">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MessageCell.updateViews(message:):MessageCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "messagePanel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in AddressViewController.mapDissMis():AddressViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "addAddressViewController">
+            </PersistentString>
+            <PersistentString
+               value = "self.addAddressViewController.addressPopup.addressCaptionTextField.textField!.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DataService.deleteAddress(addressId:completion:):DataService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "&quot;\(URL_DELETE_SAVED_ADDRESS)/\(addressId)&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.viewDidAppear(_:):LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "loginMessage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AccountViewController.changeFirstName():AccountViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "firstNameTextField.content">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PopupBaseViewController.tochRightView(_:):PopupBaseViewController.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.navTitleWithImageAndText(titleText:titleColor:imageName:):MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "image.image!.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DataService.checkToken(completion:):DataService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.result">
+            </PersistentString>
+            <PersistentString
+               value = "AuthService.instance.authToken">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in AuthService.changePassword(oldPass:newPass:completion:):AuthService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AuthService.instance.authToken">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in AuthService.updateUserProfile(profileInfo:completion:):AuthService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "item.value! as! String">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in AccountViewController.saveInfosPressed(_:):AccountViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "profileResult!.email">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in AddressViewController.getSavedAddresses():AddressViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "addresses">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SplashViewController.viewDidAppear(_:):SplashViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AuthService.instance.fullName ">
+            </PersistentString>
+            <PersistentString
+               value = "AuthService.instance.authToken">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DataService.getAllMessages(userType:completion:):DataService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AuthService.instance.authToken">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in AccountViewController.viewDidAppear(_:):AccountViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.nameTextView.content">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddressViewController.mapDissMis():AddressViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mapViewController.selectedLocation">
+            </PersistentString>
+            <PersistentString
+               value = "mapViewController.selectedLocation?.title">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TrashesViewController.fillProducts(message:products:resultType:):TrashesViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "existedTrashIds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SideViewController.viewDidAppear(_:):SideViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.userNameLabel.text">
+            </PersistentString>
+            <PersistentString
+               value = "AuthService.instance.phoneNumber">
+            </PersistentString>
+            <PersistentString
+               value = "Assistant.isConnectedToNetwork()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SelectedTrashCell.updateViews(product:):SelectedTrashCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "trashCell">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DataService.getAllCancelReasons(completion:):DataService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "responseData[index][&quot;reason&quot;]">
+            </PersistentString>
+            <PersistentString
+               value = "responseData[index][&quot;id&quot;] as! String">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ForgetPasswordViewController.viewDidLoad():ForgetPasswordViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "transferedPhoneNumber">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in AuthService.loginUser(phoneNumber:password:completion:):AuthService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "token.substring(from: 4)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "SideViewController.goToContactWithSupport():SideViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "TO_SHARE_APP_SEGUE">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MapViewController.zoomInPressed(_:):MapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "zoom">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DataService.getAllCancelReasons(completion:):DataService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AuthService.instance.authToken">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddressView.displayAddress():AddressView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "address">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AccountViewController.changeEmail():AccountViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "emailTextField.content!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DataService.getAllTransactions(completion:):DataService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "responseData[index][&quot;transaction&quot;] as! [String:Any]?">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ReportCell.updateViews(transaction:):ReportCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "reportView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AuthService.updateUserProfile(profileInfo:completion:):AuthService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AuthService.instance.authToken">
+            </PersistentString>
+            <PersistentString
+               value = "profileInfo.firstName!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DriverConfirmtionViewController.retryButtonPressed(_:):DriverConfirmtionViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "requestId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MapViewController.mapViewSnapshotReady(_:):MapViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedLatitude">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddressView.loadViewFromNib():AddressView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "titleTextField.textField">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddressView.checkInputValidation():AddressView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isPlakValid">
+            </PersistentString>
+            <PersistentString
+               value = "isTitleValid">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddressViewController.yesCallBack():AddressViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isRequestRecycleTrash">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AccountViewController.checkButtonEnability():AccountViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isValidEmail">
+            </PersistentString>
+            <PersistentString
+               value = "isValidFirstName">
+            </PersistentString>
+            <PersistentString
+               value = "isValidPassword">
+            </PersistentString>
+            <PersistentString
+               value = "isValidConfirmPassword">
+            </PersistentString>
+            <PersistentString
+               value = "isValidLastName">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddressView.setupThisView():AddressView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "plakNumberTextField">
+            </PersistentString>
+            <PersistentString
+               value = "titleTextField">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in MainViewController.addTrash(_:):MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "selectedTrash">
+            </PersistentString>
+            <PersistentString
+               value = " self.trashesViewController.existedTrashIds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DataService.deleteAddress(addressId:completion:):DataService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.result.value">
+            </PersistentString>
+            <PersistentString
+               value = "AuthService.instance.authToken">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DataService.getSavedAddresses(completion:):DataService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "responseData[index][&quot;lat&quot;] as String">
+            </PersistentString>
+            <PersistentString
+               value = "responseData[index]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainViewController.addTrash(_:):MainViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "Assistant.isConnectedToNetwork()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MessageDetailViewController.viewDidLoad():MessageDetailViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "message!.imageUrl">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #5 in DataService.recyclingTrashRequest(trashRequestInfo:completion:):DataService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AuthService.instance">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ReasonCell.updateViews(reason:):ReasonCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "radioButton">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AddAddressViewController.viewDidLoad():AddAddressViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "addressPopup">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DataService.recyclingTrashRequest(trashRequestInfo:completion:):DataService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " responseValue[&quot;data&quot;] as! [String:Any]?">
+            </PersistentString>
+            <PersistentString
+               value = "AuthService.instance.authToken">
+            </PersistentString>
+            <PersistentString
+               value = "responseValue[&quot;data&quot;] as! [String:Any]?">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in DataService.getAllMessages(userCategory:completion:):DataService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "response.result">
+            </PersistentString>
+            <PersistentString
+               value = "response.result.data">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DataService.recyclingTrashRequest(trashRequestInfo:completion:):DataService.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "trashRequestInfo.toJSON()">
+            </PersistentString>
+            <PersistentString
+               value = "response">
+            </PersistentString>
+            <PersistentString
+               value = "trashRequestInfo">
+            </PersistentString>
+            <PersistentString
+               value = "AuthService.instance.authToken">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "closure #1 in closure #1 in SideViewController.viewDidAppear(_:):SideViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " self.userNameLabel.text">
+            </PersistentString>
+            <PersistentString
+               value = "&quot;\(profile?.firstName) \(profile!.lastName)&quot;">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
